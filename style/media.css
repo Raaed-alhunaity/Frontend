@@ -1,0 +1,95 @@
+@media only screen and (max-width: 600px) {
+    body {
+        background: red !important;
+    }
+
+    .pngicon {
+        width: 100%;
+    }
+    .img3first .ttt {
+        width: 100%;
+        margin-top: 2px;
+    }
+
+    .div567 {
+        width: 100%;
+    }
+
+    .div89 {
+        width: 100%;
+    }
+
+    .div101 {
+        width: 100%;
+    }
+
+    .leftsizediv .liftlift {
+        display: block;
+        margin-top: .9px;
+    }
+
+    .img2last .xxx {
+        width: 100%; 
+    }
+
+    .img4end .eee {
+        width: 100%;
+    }
+
+    .lastpp {
+        font-size: 15px;
+        margin-top: -9px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+    body {
+        background: red !important;
+    }
+
+    .pngicon {
+        width:50%;
+        float: left;
+    }
+    .img3first .ttt {
+        width: 33.33%;
+        float: left; 
+    }
+
+    .div567 {
+        width: 100%;
+    }
+
+    .div89 {
+        width: 100%;
+    }
+
+    .div101 {
+        width: 50%;
+        float: left;
+    }
+
+    .leftsizediv .liftlift {
+        display: block;
+        margin-top: .9px;
+    }
+
+    .img2last .xxx {
+        width: 100%; 
+    }
+
+    .img4end .eee {
+        width: 50%;
+        float: left;
+    }
+
+    .lastpp {
+        font-size: 15px;
+        margin-top: -9px;
+    } 
+    
+    .leftrightdiv {
+        width: 100%;
+        display: flex;
+    }
+} 

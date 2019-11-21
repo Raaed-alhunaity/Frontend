@@ -1,0 +1,280 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.first {
+    background-image: url('https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulonimbus-2.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 33.3%;    
+}
+
+.res {
+    display: flex;
+}
+
+p {
+    text-align: center;
+    color:black; 
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.par1 {
+    font-size: 25px;
+    margin: 0px;
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    transform: translate(-50%);
+    padding: 10px;
+    position: relative;
+    left: 50%; 
+}
+
+.button1 {
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.x {
+    background-color: grey;
+}
+
+.x:hover {
+    background-color: rgb(134, 114, 114);
+}
+
+.y {
+    background-color: rgb(38, 139, 146);
+}
+
+.y:hover {
+    background-color: rgb(185, 201, 202);
+}
+
+.content{
+    display: inline-block;
+}
+
+.pngicon {
+    width: 24.83%;
+    border: 0px;
+}
+
+.ress {
+    margin-top: 4px;
+    margin-bottom: 2px;
+}
+
+.boximg {
+    display: inline-block;
+    position: relative;
+    transform: translate(-50%);
+    left: 8%;
+    padding-top: 10px; 
+    
+    }
+
+.pbox {
+    text-align: center;
+    font-size: 25px;
+}
+
+.ppbox {
+    text-align: center;
+}
+
+/* .color2{
+    background-color: lightgray;  
+}
+
+.color3{
+    background-color:rgb(223, 119, 101); 
+}
+
+.color4{
+    background-color: lightsalmon;
+} */
+
+.img3first {
+    width: 100%;
+}
+
+.img3first .ttt {
+    width: 33.18%;
+}
+
+.left2img {
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.sizediv2img {
+    width: 100%;
+}
+
+.fulllift {
+    width: 100%;
+}
+
+.leftsizediv {
+    width: 55.55%;
+    margin-left: 3px;
+}
+
+.liftlift {
+    width: 100%;
+    display: block;
+}
+
+.img2last {
+    width: 100%;
+}
+
+.xxx {
+    display: inline-flex;
+    width: 49.89%; 
+}
+
+.img4end {
+    width: 100%;
+}
+
+.img4end .eee {
+    width: 24.82%;    
+}
+
+img {
+    opacity: .8;
+}
+
+.imghover {
+    transition: transform 2s ;
+}
+
+.imghover:hover {
+    opacity: 1;
+    transform: scale(1.03);
+}
+
+.first1 {
+    background-image: url('https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulonimbus-2.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 33.3%;
+}
+
+.x{
+    margin-top: -3px;;
+}
+
+.div567 {
+    background-color: rgb(148, 172, 169);
+    width: 33.18%;
+}
+
+.div5p {
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.div5pp {
+    margin-left: 50px;
+    font-size: 18px;
+    color:white;
+}
+
+.div5pblack {
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+.leftrightdiv {
+    width: 100%;
+}
+
+.div89 {
+    background-color: rgb(89, 94, 81);
+    width: 49.89%;
+    padding-bottom: 10px;
+}
+
+.button3 {
+    width: 120px;
+    height: 30px;
+    background-color: rgb(125, 138, 104);
+    margin-left: 50px;
+    border: none;
+    border-radius: 9px;
+}
+
+.button4 {
+    width: 120px;
+    height: 30px;
+    background-color: rgb(185, 190, 174);
+    border: none;
+    border-radius: 9px;
+    margin-left: 50px;
+}
+
+.div101 {
+    width: 24.83%;
+    background-color:rgb(111, 161, 190);
+}
+
+.lastp {
+    display: inline-block;
+    position: relative;
+    transform: translate(-50%);
+    left: 50%;
+    padding: 10px;
+}
+
+.lastpp {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+.first2 {
+    background-image: url('https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulonimbus-2.jpg');
+    width: 100%;
+    padding-top: 5px;  
+    background-size: cover;
+} 
+
+.finalpar {
+    color: black;
+    text-align: center;
+}
+
+.par2 {
+    text-align: center;
+    margin: 0px;
+}
+
+.lastcolor {
+    background-color: rgb(79, 94, 100);
+}
+
+.endcolor1 {
+    background-color: rgb(133, 156, 95);
+}
+
+.hidden {
+    display: none;
+}
+.stcolor {
+    background-color: grey;
+}
+
+
+
+
